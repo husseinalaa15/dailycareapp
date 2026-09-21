@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+<defs>
+<linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1024" y2="1024"><stop offset="0" stop-color="#2bb27a"/><stop offset="1" stop-color="#0c4d33"/></linearGradient>
+<linearGradient id="drop" gradientUnits="userSpaceOnUse" x1="0" y1="464.7" x2="0" y2="886.8"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#a6e4ee"/></linearGradient>
+<linearGradient id="sun" gradientUnits="userSpaceOnUse" x1="0" y1="76.0" x2="0" y2="478.5"><stop offset="0" stop-color="#ffe083"/><stop offset="1" stop-color="#ffb938"/></linearGradient>
+</defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<g stroke="url(#sun)" stroke-width="43.7" stroke-linecap="round"><line x1="322.2" y1="340.5" x2="245.2" y2="340.5"/><line x1="336.7" y1="267.9" x2="265.5" y2="238.4"/><line x1="377.8" y1="206.3" x2="323.3" y2="151.8"/><line x1="439.4" y1="165.2" x2="409.9" y2="94.0"/><line x1="512.0" y1="150.8" x2="512.0" y2="73.7"/><line x1="584.6" y1="165.2" x2="614.1" y2="94.0"/><line x1="646.2" y1="206.3" x2="700.7" y2="151.8"/><line x1="687.3" y1="267.9" x2="758.5" y2="238.4"/><line x1="701.8" y1="340.5" x2="778.8" y2="340.5"/></g>
+<circle cx="512.0" cy="340.5" r="138.0" fill="url(#sun)"/>
+<path d="M512.0 464.7 C454.5 553.2 356.8 628.0 356.8 731.5 A155.2 155.2 0 0 0 667.2 731.5 C667.2 628.0 569.5 553.2 512.0 464.7 Z" fill="url(#drop)" stroke="url(#bg)" stroke-width="34.5" paint-order="stroke"/>
+<path d="M417.7 737.2 C415.4 685.5 440.7 641.8 477.5 602.7" fill="none" stroke="#4fbfd3" stroke-width="23.0" stroke-linecap="round" opacity=".85"/>
+</svg>
